@@ -11,3 +11,12 @@
 + Users can view favorite street art(fancyBox?)
 + Users can get directions to street art 
 + Optional: Users can earn trophies for finding or uploading street art pics
+
+##Technology Used: 
+* Front-end Tech:
+⋅⋅+ HTML5 
+⋅⋅+ CSS/SCSS
+⋅⋅+ Javascript 
+⋅⋅+ jQuery 
+* Back-end Tech: 
+⋅⋅ + Node
