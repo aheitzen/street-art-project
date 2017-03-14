@@ -14,9 +14,7 @@
 
 ##Technology Used: 
 * Front-end Tech:
-⋅⋅+ HTML5 
-⋅⋅+ CSS/SCSS
-⋅⋅+ Javascript 
-⋅⋅+ jQuery 
-* Back-end Tech: 
-⋅⋅ + Node
+	+ HTML5 
+	+ CSS/SCSS
+	+ Javascript 
+	+ jQuery 
