@@ -20,7 +20,4 @@
 	+ jQuery 
 
 ## Wireframes
-<img src="images/landing-page-mockup.png" width="300">
-<img style="float: right;" src="images/loginModal.png" width="300">
-<img src="images/mapMockUp.png" width="300">
-<img src="images/profileMockUp.png" width="300">
+<img src="images/landing-page-mockup.png" width="300"><img src="images/loginModal.png" width="300"><img src="images/mapMockUp.png" width="300"><img src="images/profileMockUp.png" width="300">
