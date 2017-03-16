@@ -23,3 +23,9 @@
 ![alt tag](images/loginModal.png)
 ![alt tag](images/mapMockUp.png)
 ![alt tag](images/profileMockUp.png)
+
+##Wireframes
+<img src="images/landing-page-mockup.png" width="300">
+<img src="images/loginModal.png" width="300">
+<img src="images/mapMockUp.png" width="300">
+<img src="images/profileMockUp.png" width="300">
