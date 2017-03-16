@@ -18,3 +18,5 @@
 	+ CSS/SCSS
 	+ Javascript 
 	+ jQuery 
+
+![alt tag](images/landing-page-mockup.png)
