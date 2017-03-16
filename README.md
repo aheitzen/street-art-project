@@ -19,11 +19,6 @@
 	+ Javascript 
 	+ jQuery 
 
-![alt tag](images/landing-page-mockup.png)
-![alt tag](images/loginModal.png)
-![alt tag](images/mapMockUp.png)
-![alt tag](images/profileMockUp.png)
-
 ##Wireframes
 <img src="images/landing-page-mockup.png" width="300">
 <img src="images/loginModal.png" width="300">
