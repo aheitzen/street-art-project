@@ -20,3 +20,6 @@
 	+ jQuery 
 
 ![alt tag](images/landing-page-mockup.png)
+![alt tag](images/loginModal.png)
+![alt tag](images/mapMockUp.png)
+![alt tag](images/profileMockUp.png)
