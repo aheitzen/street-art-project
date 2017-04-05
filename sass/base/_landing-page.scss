@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Damion');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
 html, body {
 	height: 100%;
 	width: 100%;
@@ -7,8 +10,45 @@ html, body {
 #landing-page-background {
 	height: 100%;
 	width: 100%;
-	background:linear-gradient(310deg, rgba(161,24,230, 0.9), rgba(34,6,114, 1)), url('../images/graffiti.jpg');
+	background:linear-gradient(310deg, rgba(161,24,230, 0.9), rgba(34,6,114, 1)), url('../images/whatever3.png');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-attachment: fixed; /*viewport does not move when content's height is bigger than img height*/
+	display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+span {
+	font-family: 'Damion', cursive;
+	font-size: 180px;
+	margin-top: -150px;
+	text-align: center;
+	// display: flex;
+ //    justify-content: center;
+ //    align-items: center;
+	-webkit-animation: neonPulse 4s alternate infinite;
+    color: #fff; 
+    text-shadow: 0 0 5px #00E2EB, 0 0 10px #00E2EB, 0 0 30px #00E2EB, 0 0 40px #009ADC, 0 0 55px #009ADC, 0 0 75px #009ADC;
+}
+
+@-webkit-keyframes neonPulse {
+  from {
+    text-shadow: 0 0 3px #00E2EB, 0 0 7px #00E2EB, 0 0 20px #00E2EB, 0 0 30px #009ADC, 0 0 40px #009ADC, 0 0 60px #009ADC;
+  }
+  to {
+    text-shadow: 0 0 5px #00E2EB, 0 0 10px #00E2EB, 0 0 30px #00E2EB, 0 0 40px #009ADC, 0 0 55px #009ADC, 0 0 75px #009ADC;
+  }
+}
+
+p {
+	color: white;
+	font-size: 30px;
+	margin-left: -400px;
+	margin-top: 70px;
+	font-family: 'Oswald', sans-serif;
+
+
+}
+
