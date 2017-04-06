@@ -1,0 +1,13 @@
+#textResponsive {
+	@media screen and (max-width: 540px) {
+		p {
+			font-size: 130px;
+		}
+		span {
+			font-size: 22px;
+			letter-spacing: 1px;
+			margin-top: -40px;
+		}
+	}
+}
+	
