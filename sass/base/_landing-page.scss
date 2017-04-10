@@ -20,23 +20,55 @@ html, body {
     align-items: center;
 }
 
-
-
-p {
+p#primaryTitle {
 	font-family: 'Damion', cursive;
 	font-size: 180px;
 	text-align: center;
 	-webkit-animation: neonPulse 2s alternate infinite;
     color: #fff; 
+    // display: flex;
+ //    justify-content: center;
+ //    align-items: center;
 }
 
-span {
+
+p#subTitle {
 	color: white;
 	font-family: 'Oswald';
 	font-size: 30px;
-	float: right; 
-	margin-top: -50px;
+	text-align: center;
+	margin-top: -60px;
 	letter-spacing: 1.7px;
+	margin-left: 60px;
+}
+
+button {
+	margin-top: 30px;
+	background-color: transparent;
+	border: white 3px solid;
+	color: white;
+	padding: 5px;
+	font-family: 'Oswald';
+	font-size: 25px;
+	letter-spacing: 1px;
+	// &:hover {
+	// 	background-color: #FE04CE;
+	// 	box-shadow: 0 0 15px #FE04CE;
+	// 	border: #FE04CE 3px solid;
+	// 	color: rgba(255, 255, 255, 0.9);
+	// }
+}
+
+input {
+	background-color: transparent;
+	border: white 3px solid;
+	color: white;
+	padding: 5px;
+	font-family: 'Oswald';
+	font-size: 25px;
+	letter-spacing: 1px;
+	margin-left: 30px;
+
 }
 
 @-webkit-keyframes neonPulse {
